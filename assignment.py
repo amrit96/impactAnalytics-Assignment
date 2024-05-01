@@ -12,5 +12,4 @@ for i in range(1, n + 1):
 
 validClass = attendanceLog[0]
 lastDayMiss = temp[1]
-print(validClass)
 print(f"For {n} days: {lastDayMiss}/{validClass}")
