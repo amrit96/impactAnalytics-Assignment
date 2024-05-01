@@ -1,5 +1,5 @@
 n = int(input())                  # Reading input from STDIN
-maxMiss = 2
+maxMiss = 4
 attendanceLog = [1] * (maxMiss+1)
 attendanceLog[maxMiss] = 0
 
